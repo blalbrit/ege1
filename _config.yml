@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Liturgical Books'
-description:      'A sampler of RBML Liturgical Books'
+title:            'Ege Manuscript 1'
+description:      'A reconstruction of a dispersed manuscript'
 url:              ''
-baseurl:          '/liturgical-books'
+baseurl:          '/ege1'
 copyright:        'CC-BY 4.0 International'
 
 # ---------------------------------------------------------------
@@ -145,7 +145,7 @@ footer:
     - label: 'GitHub'
       link: ''
     - label: 'Contact'
-      link: 'mailto:btg2114@columbia.edu'
+      link: 'mailto:blalbrit@stanford.edu'
   logos:
     - img: 'logo.png'
     - img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2r40VYrf2Q5jkJiPGjPkl7xZoHJliwgVtHCLVXmAsRKw0ZudD'

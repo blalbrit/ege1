@@ -4,9 +4,7 @@ title: Credits
 permalink: '/credits/'
 ---
 
-This site is based on the web exhibit “Celebrating the Liturgy’s Books” (2002), originally produced by Consuelo Dutschke and Susan Boynton, in collaboration with the Columbia University Libraries. 
+This site provides a draft reconstruction of a manuscript broken by Otto Ege in the 1940s. Many thanks to the IIIF-enabled sites from which the images for the reconstruction are drawn. Also many thanks to Barbara Shailor for providing the vision that has led to multiple digital reconstructions of Ege's manuscripts, to Lisa Fagin Davis for driving North American fragmentology forward in so many ways, and to Scott Gwara for producing "the book" on Otto Ege's dispersed leaves.
 
-The current version was edited by Susan Boynton and John Thomas Glasenapp in collaboration with [Digital Scholarship at Columbia University Libraries](https://library.columbia.edu/services/digital-scholarship.html). The pages were built by Alex Gil using [Wax](https://minicomp.github.io/wax/), the minimal computing toolset designed by [Marii Nyröp](http://marii.info/).
-
-Special thanks to the Beinecke Library for their permission to use a reproduction of The Olivetan Gradual (Beinecke MS 1184) as our site banner.
+Many thanks to Alex Gill for introducing me (and many others) to the joys of minimal computing frameworks like Wax, and to Marii Nyröp for developing such a wonderfully flexible, low-overhead system!
 
