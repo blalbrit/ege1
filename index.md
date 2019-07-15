@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: liturgical
-  pid: beinecke1184
+  pid: ege1_stanford
   y: 25%
 ---
 

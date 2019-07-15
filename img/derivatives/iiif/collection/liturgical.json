@@ -8,9 +8,9 @@ layout: none
   "label": "liturgical",
   "manifests": [
     {
-      "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/x936_C28_f7/manifest.json",
+      "@id": "https://purl.stanford.edu/kq131cs7229/iiif/manifest",
       "@type": "sc:Manifest",
-      "label": "x936_C28_f7"
+      "label": "ege1_stanford"
     },
     {
       "@id": "{{ '' | absolute_url }}/img/derivatives/iiif/barnard1_189/manifest.json",
