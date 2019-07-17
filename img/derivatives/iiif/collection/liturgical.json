@@ -8,6 +8,76 @@ layout: none
   "label": "liturgical",
   "manifests": [
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/casewestern_recto/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "casewestern_recto"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/casewestern_verso/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "casewestern_verso"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Ege_26r/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ege_26r"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Ege_26v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ege_26v"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/kent_01recto/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "kent_01recto"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/kent_01verso/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "kent_01verso"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/kenyon_01r/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "kenyon_01r"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/kenyon_01v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "kenyon_01v"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/lima_01r/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "lima_01r"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/lima_01v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "lima_01v"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Rochester_Ege1_recto/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Rochester_Ege1_recto"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/saskatoon_01v/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "saskatoon_01v"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/uncg_001a_front/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "uncg_001a_front"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/uncg_001b_back/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "uncg_001b_back"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yale_recto/manifest.json",
       "@type": "sc:Manifest",
       "label": "yale_recto"
