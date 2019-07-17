@@ -29,7 +29,7 @@ copyright:        'CC-BY 4.0 International'
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
-theme:            wax_theme
+theme:            jekyll-theme-minimal
 permalink:        'pretty'
 safe:             true
 exclude:          [Gemfile*, Rakefile, vendor, spec, README.md, wax_theme]
